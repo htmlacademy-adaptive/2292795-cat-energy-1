@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Татьяна Верна](https://up.htmlacademy.ru/adaptive-individual/1/user/2292795).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
+
 
 ---
 
